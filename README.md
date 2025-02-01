@@ -1,2 +1,2 @@
 # simple_zcat
-A network client/server in python I made for learning
+A simple network client/server written in python I made for testing and learning
